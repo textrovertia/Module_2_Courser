@@ -22,6 +22,21 @@ header{
     text-align: right;
 }
 
+span{
+    font-size: 20px;
+    width: 150px;
+    border: 1px solid black;
+    font-weight: bold;
+    text-align: center;
+    float: right;
+    top: 0;
+    right: 0;
+    margin: 0;
+    position: absolute
+}
+
+
+
 #heading-1{
     background-color: rgba(185, 77, 77, 1);
     
